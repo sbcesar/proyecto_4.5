@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa59d035-65ba-4df0-aa21-b5803d2ff442" name="Changes" comment="">
+    <list default="true" id="fa59d035-65ba-4df0-aa21-b5803d2ff442" name="Changes" comment="tasks to do&#10;- create function compare(t:Time): Int&#10;- create function copy():Time&#10;- create function copy(t:Time):Time&#10;- create function summarize(t:Time):Time?&#10;- create function subtract(t:Time):Time?&#10;- create function greaterThan(t:Time):Boolean&#10;- create function lowerThan(t:Time): Boolean&#10;13:40 31/01/2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tiempo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tiempo.kt" afterDir="false" />
@@ -26,15 +26,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.MainKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706282620471</updated>
     </task>
+    <task id="LOCAL-00001" summary="tasks to do&#10;- create function compare(t:Time): Int&#10;- create function copy():Time&#10;- create function copy(t:Time):Time&#10;- create function summarize(t:Time):Time?&#10;- create function subtract(t:Time):Time?&#10;- create function greaterThan(t:Time):Boolean&#10;- create function lowerThan(t:Time): Boolean&#10;13:40 31/01/2024">
+      <option name="closed" value="true" />
+      <created>1706704790346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706704790346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tasks to do&#10;- create function compare(t:Time): Int&#10;- create function copy():Time&#10;- create function copy(t:Time):Time&#10;- create function summarize(t:Time):Time?&#10;- create function subtract(t:Time):Time?&#10;- create function greaterThan(t:Time):Boolean&#10;- create function lowerThan(t:Time): Boolean&#10;13:40 31/01/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks to do&#10;- create function compare(t:Time): Int&#10;- create function copy():Time&#10;- create function copy(t:Time):Time&#10;- create function summarize(t:Time):Time?&#10;- create function subtract(t:Time):Time?&#10;- create function greaterThan(t:Time):Boolean&#10;- create function lowerThan(t:Time): Boolean&#10;13:40 31/01/2024" />
   </component>
 </project>
