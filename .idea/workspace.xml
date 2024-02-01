@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa59d035-65ba-4df0-aa21-b5803d2ff442" name="Changes" comment="tasks to do&#10;- create function compare(t:Time): Int&#10;- create function copy():Time&#10;- create function copy(t:Time):Time&#10;- create function summarize(t:Time):Time?&#10;- create function subtract(t:Time):Time?&#10;- create function greaterThan(t:Time):Boolean&#10;- create function lowerThan(t:Time): Boolean&#10;13:40 31/01/2024">
+    <list default="true" id="fa59d035-65ba-4df0-aa21-b5803d2ff442" name="Changes" comment="done&#10;- all the implementations&#10;&#10;tasks to do&#10;- document code&#10;- ceate menu at main to optimize&#10;01/02/2024">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tiempo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tiempo.kt" afterDir="false" />
@@ -59,11 +59,20 @@
       <option name="project" value="LOCAL" />
       <updated>1706704790346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done&#10;- all the implementations&#10;&#10;tasks to do&#10;- document code&#10;- ceate menu at main to optimize&#10;01/02/2024">
+      <option name="closed" value="true" />
+      <created>1706788517124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706788517124</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tasks to do&#10;- create function compare(t:Time): Int&#10;- create function copy():Time&#10;- create function copy(t:Time):Time&#10;- create function summarize(t:Time):Time?&#10;- create function subtract(t:Time):Time?&#10;- create function greaterThan(t:Time):Boolean&#10;- create function lowerThan(t:Time): Boolean&#10;13:40 31/01/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks to do&#10;- create function compare(t:Time): Int&#10;- create function copy():Time&#10;- create function copy(t:Time):Time&#10;- create function summarize(t:Time):Time?&#10;- create function subtract(t:Time):Time?&#10;- create function greaterThan(t:Time):Boolean&#10;- create function lowerThan(t:Time): Boolean&#10;13:40 31/01/2024" />
+    <MESSAGE value="done&#10;- all the implementations&#10;&#10;tasks to do&#10;- document code&#10;- ceate menu at main to optimize&#10;01/02/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="done&#10;- all the implementations&#10;&#10;tasks to do&#10;- document code&#10;- ceate menu at main to optimize&#10;01/02/2024" />
   </component>
 </project>
